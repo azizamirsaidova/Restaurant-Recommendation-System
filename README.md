@@ -1,5 +1,5 @@
 # Restaurant-Recommendation-System
-
+Video Presentation: https://www.youtube.com/watch?v=CVYpkCNOTzI&t=18s
 A recommendation system for restaurants using collaborative filtering (CF). We will be using the Yelp Dataset for this. 
 
 The project is divided in 3 jupyter notebooks
