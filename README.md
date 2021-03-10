@@ -1,9 +1,9 @@
 # Restaurant-Recommendation-System
 Video Presentation: https://www.youtube.com/watch?v=CVYpkCNOTzI&t=18s.
 
-A recommendation system for restaurants using collaborative filtering (CF). We will be using the Yelp Dataset for this. 
+A recommendation system for restaurants utilizing Yelp DataSet and applying collaborative filtering (CF) for modeling.
 
-The project is divided in 3 jupyter notebooks
+The project is divided in 3 jupyter notebooks:
 
 ## 1. Getting Data Ready
 Here we explore data. Do some simple null handling and type casting. As the data size is too big to load on RAM, we send data into a SQLite database chunk by chunk. This database can be later used for EDA and Modelling. We are using yelp dataset for this project. The Yelp dataset is a subset of yelp's businesses, reviews, and user data for use in personal, educational, and academic purposes.
